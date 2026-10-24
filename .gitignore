@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+work/
+.streamlit/secrets.toml
+
+.env
+.venv/
+__pycache__/
+*.pyc
